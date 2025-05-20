@@ -1,0 +1,77 @@
+.hero-info__text {
+   color: #0E0D0D;
+   font-size: 40px;
+   line-height: calc(47 / 40);
+
+   margin-bottom: 40px;
+}
+
+.hero-info__text strong {
+   font-weight: 700;
+}
+
+.hero-info__body {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+   gap: 20px;
+}
+
+.hero-info__img {
+   border-radius: 10px;
+}
+
+
+.hero-info__content {
+   flex-basis: 940px;
+}
+
+.hero-info__description {
+   font-size: 18px;
+   line-height: calc(25 / 18);
+
+   margin-bottom: 45px;
+}
+
+.hero-info__description span {
+   color: #F2A531;
+}
+
+.hero-info__description b {
+   font-weight: 700;
+}
+
+.hero-info__list-item {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+   gap: 20px;
+
+   padding-block: 10px;
+
+}
+
+.hero-info__list-item:first-child {
+   border-block: 1px solid #0E0D0D23;
+}
+
+.hero-info__list-item:nth-child(n+1) {
+   border-bottom: 1px solid #0E0D0D23;
+}
+
+.hero-info__position {
+   font-size: 18px;
+   line-height: calc(25 / 18);
+}
+
+.hero-info__position span {
+   color: #F2A531;
+}
+
+.hero-info__quantity {
+   color: #0E0D0D71;
+   font-size: 16px;
+   line-height: calc(22 / 16);
+}

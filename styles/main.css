@@ -1,0 +1,22 @@
+@import url("./modules/reset.css");
+@import url("./modules/fonts.css");
+@import url("./modules/global.css");
+
+@import url("./blocks/header.css");
+@import url("./blocks/hero.css");
+@import url("./blocks/hero-info.css");
+@import url("./blocks/products.css");
+@import url("./blocks/quality.css");
+
+
+
+
+
+@import url("./blocks/footer.css");
+
+
+
+
+
+
+@import url("./modules/media.css");
